@@ -1,6 +1,7 @@
 ## Sobre mim
 
 Bacharel em Direito e acadêmica de Análise e Desenvolvimento de Sistemas
+Estudo com foco em Front-end
 
 <br>
 <div align="left">
