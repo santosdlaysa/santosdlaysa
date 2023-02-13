@@ -4,6 +4,7 @@ Bacharel em Direito e acadêmica de Análise e Desenvolvimento de Sistemas
 Estudo com foco em Front-end
 
 <br>
+
 <div align="left">
   <a href="https://github.com/santosdlaysa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosdlaysa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=24"/>
