@@ -1,6 +1,7 @@
 ## Sobre mim
 
 👋 Hi, I'm Laysa.
+<br>
 👩‍💻I am currently studying to be a front-end developer.
 Bachelor of Law and academic of Systems Analysis and Development
 
