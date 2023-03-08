@@ -1,7 +1,8 @@
 ## Sobre mim
 
-Bacharel em Direito e acadêmica de Análise e Desenvolvimento de Sistemas
-Estudo com foco em Front-end
+👋 Hi, I'm Laysa.
+👩‍💻I am currently studying to be a front-end developer.
+Bachelor of Law and academic of Systems Analysis and Development
 
 <br>
 
