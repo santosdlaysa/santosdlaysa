@@ -1,9 +1,8 @@
 ## Sobre mim
 
-👋 Hi, I'm Laysa.
+👋 Olá, Prazer Laysa.
 <br>
-👩‍💻I am currently studying to be a front-end developer.
-Academic of Systems Analysis and Development
+👩‍💻 Atualmente estou estudando para ser desenvolvedora de software, sou Acadêmica no curso de Análise e Desenvolvimento de Sistemas.
 
 <br>
 
