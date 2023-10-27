@@ -5,7 +5,7 @@
 👩‍💻 Sou Bacharel em Direito e atualmente estou estudando para ser desenvolvedora de software, sou Acadêmica no curso de Análise e Desenvolvimento de Sistemas na Uninter a distância.
 <br>
 <br>
-<a href="https://santosdlaysa.github.io/portifolio-oficial/"><strong>Meu Portfólio</strong></a>
+<a href="https://santosdlaysa.github.io/Portfolio-oficial/"><strong>Meu Portfólio</strong></a>
 
 <div align="left">
   <a href="https://github.com/santosdlaysa">
