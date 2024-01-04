@@ -6,7 +6,7 @@
 <br>
 <br>
 <a href="https://santosdlaysa.github.io/Portfolio-oficial/"><strong>Meu Portfólio</strong></a>
-<a hreft="https://www.canva.com/design/DAFvMCaN3t4/CQolUBMck-WzVl71YKAVMg/view?mode=prototype#p-gina-sem-nome">Curriculo</a>
+<a href="https://www.canva.com/design/DAFvMCaN3t4/CQolUBMck-WzVl71YKAVMg/view?mode=prototype#p-gina-sem-nome">Curriculo</a>
 
 <div align="left">
   <a href="https://github.com/santosdlaysa">
