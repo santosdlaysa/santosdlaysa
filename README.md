@@ -6,11 +6,14 @@
 <br>
 <br>
 <a href="https://santosdlaysa.github.io/Portfolio-oficial/"><strong>Meu Portfólio</strong></a>
+<a hreft="https://www.canva.com/design/DAFvMCaN3t4/CQolUBMck-WzVl71YKAVMg/view?mode=prototype#p-gina-sem-nome">Curriculo</a>
 
 <div align="left">
   <a href="https://github.com/santosdlaysa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosdlaysa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=24"/>
 </div>
+
+
 
 ##
 
