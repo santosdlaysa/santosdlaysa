@@ -2,7 +2,7 @@
 
 👋 Olá, Prazer Laysa.
 <br>
-👩‍💻 Sou Bacharel em Direito e atualmente estou estudando para ser desenvolvedora de software, sou Acadêmica no curso de Análise e Desenvolvimento de Sistemas na Uninter a distância.
+👩‍💻 Tenho 26 anos, Sou Bacharel em Direito, analista de sistemas
 <br>
 <br>
 <a href="https://santosdlaysa.github.io/Portfolio-oficiall/"><strong>Meu Portfólio</strong></a>
