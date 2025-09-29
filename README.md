@@ -5,7 +5,7 @@
 👩‍💻 Tenho 26 anos, Sou Bacharel em Direito, analista de sistemas
 <br>
 <br>
-<a href="[https://santosdlaysa.github.io/Portfolio-oficiall/](https://portfolio-oficiall.vercel.app/)"><strong>Meu Portfólio</strong></a>
+<a href="https://portfolio-oficiall.vercel.app"><strong>Meu Portfólio</strong></a>
 <a href="https://www.canva.com/design/DAFvMCaN3t4/CQolUBMck-WzVl71YKAVMg/view?mode=prototype#p-gina-sem-nome">Curriculo</a>
 
 <div align="left">
